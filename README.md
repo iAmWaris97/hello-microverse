@@ -12,7 +12,7 @@ In this project I have practiced integrating HTML/CSS linters into my project.
 
 ## Live Demo
 
-[Live Demo Link](https://iamwaris97.github.io/hello-world/)
+[Live Demo Link](https://iamwaris97.github.io/hello-microverse/)
 
 ## Author:
 
