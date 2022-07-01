@@ -1,0 +1,22 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iAmWaris97/hello-microverse.git"
+  },
+  "author": "Waris Haleem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iAmWaris97/hello-microverse/issues"
+  },
+  "homepage": "https://github.com/iAmWaris97/hello-microverse#readme",
+  "devDependencies": {
+    "hint": "^7.0.1"
+  }
+}
